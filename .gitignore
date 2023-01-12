@@ -27,5 +27,6 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
-Mouse.FCStd[0-9]
-labMouse.blend[0-9]
+*.FCStd[0-9]
+*.blend[0-9]
+*.stl
