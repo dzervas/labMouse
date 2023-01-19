@@ -1602,7 +1602,7 @@
     (effects (font (size 3 3)) (justify left bottom))
     (uuid b112f6bd-084a-4fa9-ba95-c9ddeb835db7)
   )
-  (text "Calculated using TI's WEBENCH designer\nLink to the design:\nhttps://webench.ti.com/appinfo/webench/scripts/SDP.cgi?ID=59BAA17F7AEB8A68\nLM5165DRCR 3.2V-3.4V to 1.90V @ 0.03A with High Efficiency Design"
+  (text "Calculated using TI's WEBENCH designer\nLink to the design:\nhttps://webench.ti.com/appinfo/webench/scripts/SDP.cgi?ID=3B6A1D1DC5FC8779\nLM5165DRCR 3.2V-3.4V to 1.90V @ 0.06A with High Efficiency Design"
     (at 187.96 71.12 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d3bd7679-560a-4c26-aeb2-8e2c31224137)
@@ -1976,7 +1976,7 @@
     (property "Reference" "R?" (id 0) (at 230.378 44.8853 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100k" (id 1) (at 230.378 47.4222 0)
+    (property "Value" "56.2" (id 1) (at 230.378 47.4222 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" (id 2) (at 226.822 45.72 90)
@@ -2049,7 +2049,7 @@
     (property "Reference" "C9" (id 0) (at 236.601 51.2353 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "47nF" (id 1) (at 236.601 53.7722 0)
+    (property "Value" "33nF" (id 1) (at 236.601 53.7722 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder" (id 2) (at 234.6452 55.88 0)
@@ -2963,7 +2963,7 @@
       (reference "C8") (unit 1) (value "33uF") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
     )
     (path "/17d19ef1-911f-4c72-ae36-822f2b76c207"
-      (reference "C9") (unit 1) (value "47nF") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
+      (reference "C9") (unit 1) (value "33nF") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
     )
     (path "/e276be8d-eaad-4d14-a405-a767b9ef1976"
       (reference "C10") (unit 1) (value "4.7uF") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
@@ -2978,7 +2978,7 @@
       (reference "R1") (unit 1) (value "10k") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
     )
     (path "/0780e062-3609-4119-bfb7-5647acc43f2b"
-      (reference "R?") (unit 1) (value "100k") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
+      (reference "R?") (unit 1) (value "56.2") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
     )
     (path "/57b9aa98-bc7e-4344-bcff-af796476da0a"
       (reference "R?") (unit 1) (value "68.1k") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
