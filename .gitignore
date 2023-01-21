@@ -30,3 +30,4 @@ fp-info-cache
 *.FCStd[0-9]
 *.blend[0-9]
 *.stl
+labMouse/production
